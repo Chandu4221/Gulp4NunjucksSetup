@@ -1,0 +1,24 @@
+{
+  "name": "gulp-nunjucks-setup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Chandu4221/Gulp3NunjucksSetup.git",
+  "author": "ChandraShekhar.D",
+  "license": "MIT",
+  "scripts": {
+    "start": "gulp"
+  },
+  "private": false,
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-nunjucks": "^5.0.1",
+    "gulp-nunjucks-render": "^2.2.3",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "node-sass": "^4.12.0"
+  },
+  "dependencies": {
+    "gulp-changed": "^4.0.2"
+  }
+}
