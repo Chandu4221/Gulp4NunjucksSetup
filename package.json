@@ -16,7 +16,7 @@
     "gulp-nunjucks-render": "^2.2.3",
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.5",
-    "node-sass": "^4.12.0"
+    "node-sass": "^7.0.0"
   },
   "dependencies": {
     "gulp-changed": "^4.0.2"
